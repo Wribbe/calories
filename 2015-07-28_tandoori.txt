@@ -1,0 +1,7 @@
+smör;41;739
+krydda;71;275
+kokos;401;150
+grädde;491;340
+creme;486;320
+turk;923;129
+kyckling;1800;80

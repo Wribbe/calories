@@ -1,0 +1,9 @@
+olivolja;42;823
+grönsaksbuljong;40;250
+vatten;2331;0
+selleri;376;14
+paprika_röd;219;31
+purjo;195;61
+gullök;610;40
+vitlök;24;149
+röda_kidneybönor;1881;130

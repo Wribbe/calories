@@ -1,0 +1,11 @@
+tandoorikrydda;69;275
+sockerärtor;285;42
+stora vita bönor;913;90
+smör;159;517
+gullök;421;40
+kokosmjölk;388;150
+vitlök;28;149
+blomkål;1492;25
+cremf;482;320
+grädde;482;340
+turk.yo;963;129

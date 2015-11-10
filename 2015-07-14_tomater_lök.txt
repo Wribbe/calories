@@ -1,0 +1,3 @@
+tomat;499;18
+rödlök;234;42
+citronsaft;40;25

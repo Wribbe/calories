@@ -1,0 +1,8 @@
+vitlök;57;149
+tomatkross;1421;35
+smör;56;739
+purjo;338;61
+rödl;256;42
+gullö;906;40
+fläskf;1984;240
+champ;891;25

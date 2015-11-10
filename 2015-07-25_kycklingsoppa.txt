@@ -1,0 +1,7 @@
+kyckling;615;245
+lök;305;40
+purjo;406;61
+buljong;48;121
+vatten;1800;0
+ris;100;350
+smör;50;739

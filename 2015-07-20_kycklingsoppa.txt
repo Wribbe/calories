@@ -1,0 +1,7 @@
+skål;81
+kyckling;717;245
+lök;805;40
+purjo;486;61
+buljong;310;121
+vatten;1881;0
+ris;181;350
