@@ -1,0 +1,6 @@
+smör;37;739
+turky;987;129
+grädde;500;340
+cremf;480;320
+kokos;392;150
+kyckling;1614;80

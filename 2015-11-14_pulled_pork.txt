@@ -1,0 +1,10 @@
+smoke;74;11
+chilisås;1072;98
+karré;3201;241
+vitlök;62;149
+smör;76;739
+purjo;458;61
+schall;416;72
+rödlök;539;42
+gullök;664;40
+
