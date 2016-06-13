@@ -1,4 +1,8 @@
 smör (arla) - 739
+bacon - 263
+banan - 89
+blandfärs - 250
+bladspenat - 25
 blomkål - 25
 citronsaft - 25
 champinjoner - 26
@@ -9,6 +13,7 @@ fläskkaré  - 241
 fläskfärs - 240
 cremefr (garant) - 320
 grädde (garant) - 340
+gröna oliver (ica basic) - 130
 grönsaksbljong - 250
 gullök - 40
 gurka - 15
@@ -25,6 +30,7 @@ rödlök - 42
 röd paprika - 31
 tandoori krydda (santa maria) - 275
 liquid smoke - 11
+saricha - 418
 schalottenlök - 72
 sockerärtor - 42
 stora vita bönor - 90

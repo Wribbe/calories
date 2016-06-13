@@ -23,10 +23,11 @@ Middag: (403)
 Köttfärslimpa: 2.06 cal/g
 Tomatsalsa: 0.79 cal/g
 
-Frukost: (1500)
+Frukost: (172) (av 2500)
   172kcal --> 1328kcal
+  (2x ägg / 193g banan)
 
-Lunch: (1328)
+Lunch: (925) (av 1328)
   195g köttfärslimpa -> 400kcal
   345g potatis -> 300kcal
    65g ris -> 225kcal
@@ -36,5 +37,47 @@ Lunch: (1328)
    65g ris -> 225kcal
   110g tomtatsalsa -> 87kcal
 
-Middag: (403)
+Middag: (403) (av 403)
   312g yoghurt
+
+2015-12-01:
+===========
+Tandoori: 1.43 cal/g
+
+Frukost: (172) (av 2500)
+  172kcal --> 1328kcal
+  (2x ägg / 193g banan)
+
+Lunch: (925) (av 1328)
+  280g tondoori (400cal)
+  140g ris (490cal) / 100g ris + 40g creme.
+  10g saricha (42cal)
+
+2016-01-25:
+===========
+Köttfärslimpa 2.18 cal/g
+Tomatsalsa (445ol/700tom) 0.612 cal/g
+
+Frukost: (172) (av 2500)
+  172kcal --> 1328kcal
+  (2x ägg / 193g banan)
+
+Lunch: (925) (av 1328)
+  183g köttfärslimpa (400cal)
+  140g ris (490cal) / 100g ris + 40g creme.
+  68g tomatsalsa.
+
+2016-06-08:
+===========
+Tondoori 1.29 cal/g
+Frukost 1.28 cal/g
+
+Frukost: (170kcal) 1500 -> 1330
+  132g frukost  (170kcal)
+
+Lunch: (930kcal) 1330 -> 400
+  310g tondoori (400kcal)
+  151g ris      (530kcal)
+
+Middag:
+  310g yohgurt

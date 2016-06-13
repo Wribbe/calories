@@ -1,3 +1,4 @@
+#!/usr/bin/env python2
 #coding=UTF-8
 
 import sys
@@ -18,6 +19,6 @@ for ingredient in ingredients:
     total_weight += weight
     total_calories += calories * ((weight-container)/100.0)
 
-print "Total calories: {}cal".format(total_calories)
-print "Total weight: {}g".format(total_weight)
-print "Total cal/g: {:.3} cal/g".format(total_calories/total_weight)
+print("Total calories: {}cal".format(total_calories))
+print("Total weight: {}g".format(total_weight))
+print("Total cal/g: {:.3} cal/g".format(total_calories/total_weight))

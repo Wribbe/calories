@@ -1,0 +1,6 @@
+kyckling;3433;80
+smör;93;739
+turk;991;129
+crem;491;320
+kokos;403;150
+krydd;66;275
